@@ -20,7 +20,7 @@ Clone the project
 ```bash
   git clone https://github.com/roypam/WebDesign-Landing-Page-Project-VIII.git
 ```
-Deployed Link - 
+Deployed Link (Hosted in Netlify)
   [ WebDesign-Landing-Page](https://webdesign-landing-2022.netlify.app/)
 
 ## Author and Contact
